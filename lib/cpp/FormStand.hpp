@@ -1,11 +1,11 @@
 ﻿// CodeGear C++Builder
-// Copyright (c) 1995, 2022 by Embarcadero Technologies, Inc.
+// Copyright (c) 1995, 2025 by Embarcadero Technologies, Inc.
 // All rights reserved
 
-// (DO NOT EDIT: machine generated header) 'FormStand.pas' rev: 36.00 (Windows)
+// (DO NOT EDIT: machine generated header) 'FormStand.pas' rev: 37.00 (Windows)
 
-#ifndef FormstandHPP
-#define FormstandHPP
+#ifndef FormStandHPP
+#define FormStandHPP
 
 #pragma delphiheader begin
 #pragma option push
@@ -208,4 +208,4 @@ using namespace Formstand;
 
 #pragma delphiheader end.
 //-- end unit ----------------------------------------------------------------
-#endif	// FormstandHPP
+#endif	// FormStandHPP

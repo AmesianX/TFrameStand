@@ -1,11 +1,11 @@
 ﻿// CodeGear C++Builder
-// Copyright (c) 1995, 2022 by Embarcadero Technologies, Inc.
+// Copyright (c) 1995, 2025 by Embarcadero Technologies, Inc.
 // All rights reserved
 
-// (DO NOT EDIT: machine generated header) 'ResponsiveContainer.pas' rev: 36.00 (Windows)
+// (DO NOT EDIT: machine generated header) 'ResponsiveContainer.pas' rev: 37.00 (Windows)
 
-#ifndef ResponsivecontainerHPP
-#define ResponsivecontainerHPP
+#ifndef ResponsiveContainerHPP
+#define ResponsiveContainerHPP
 
 #pragma delphiheader begin
 #pragma option push
@@ -128,4 +128,4 @@ using namespace Responsivecontainer;
 
 #pragma delphiheader end.
 //-- end unit ----------------------------------------------------------------
-#endif	// ResponsivecontainerHPP
+#endif	// ResponsiveContainerHPP
