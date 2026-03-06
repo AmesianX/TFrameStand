@@ -34,7 +34,7 @@ package dclFrameStandPackage_12;
 requires
   rtl,
   fmx,
-  FrameStandPackage_11_1;
+  FrameStandPackage_12;
 
 contains
   ComponentRegistration in '..\source\ComponentRegistration.pas',
