@@ -28,7 +28,7 @@ package dclFrameStandPackage_13;
 {$ENDIF IMPLICITBUILDING}
 {$DESCRIPTION 'TFrameStand and TFormStand Designtime Package'}
 {$LIBSUFFIX AUTO}
-{$DESIGNONLY ON}
+{$DESIGNONLY}
 {$IMPLICITBUILD ON}
 
 requires
